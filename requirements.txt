@@ -1,0 +1,6 @@
+aiogram
+bs4
+requests
+lxml
+fake_useragent
+random
